@@ -8,7 +8,7 @@
 	<array>
 		<dict>
 			<key>catalogPath</key>
-			<string>/Users/tommasodaddio/Desktop/SideInstaller/ios-app/Assets.xcassets</string>
+			<string>/Users/tommdadd/Desktop/SideInstaller/ios-app/Assets.xcassets</string>
 			<key>objcSymbol</key>
 			<string>ACImageNameAppLogo</string>
 			<key>relativePath</key>
@@ -18,7 +18,7 @@
 		</dict>
 		<dict>
 			<key>catalogPath</key>
-			<string>/Users/tommasodaddio/Desktop/SideInstaller/ios-app/Assets.xcassets</string>
+			<string>/Users/tommdadd/Desktop/SideInstaller/ios-app/Assets.xcassets</string>
 			<key>objcSymbol</key>
 			<string>ACImageNameCertsLogo</string>
 			<key>relativePath</key>
@@ -28,7 +28,7 @@
 		</dict>
 		<dict>
 			<key>catalogPath</key>
-			<string>/Users/tommasodaddio/Desktop/SideInstaller/ios-app/Assets.xcassets</string>
+			<string>/Users/tommdadd/Desktop/SideInstaller/ios-app/Assets.xcassets</string>
 			<key>objcSymbol</key>
 			<string>ACImageNameDownloadsLogo</string>
 			<key>relativePath</key>
@@ -38,7 +38,7 @@
 		</dict>
 		<dict>
 			<key>catalogPath</key>
-			<string>/Users/tommasodaddio/Desktop/SideInstaller/ios-app/Assets.xcassets</string>
+			<string>/Users/tommdadd/Desktop/SideInstaller/ios-app/Assets.xcassets</string>
 			<key>objcSymbol</key>
 			<string>ACImageNamePairingLogo</string>
 			<key>relativePath</key>
